@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## String
+|  |
+| ------- |
+| [1170-shortest-common-supersequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1170-shortest-common-supersequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1170-shortest-common-supersequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1170-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
