@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0283-move-zeroes) |
 | [2551-apply-operations-to-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
