@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2551-apply-operations-to-an-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -43,8 +45,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
