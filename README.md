@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Bit Manipulation
