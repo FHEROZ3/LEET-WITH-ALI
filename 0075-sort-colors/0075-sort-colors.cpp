@@ -13,7 +13,7 @@ public:
         }
         else if(nums[m]==1)
         {
-            swap(nums[l],nums[m]);
+          
             m++;
         }
         else
