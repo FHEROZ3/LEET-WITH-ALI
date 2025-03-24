@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3430-count-days-without-meetings](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/3430-count-days-without-meetings) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/3643-zero-array-transformation-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
+| [3430-count-days-without-meetings](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/3430-count-days-without-meetings) |
 ## Matrix
 |  |
 | ------- |
