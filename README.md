@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2478-longest-nice-subarray) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0053-maximum-subarray) |
 | [1170-shortest-common-supersequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1170-shortest-common-supersequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2262-solving-questions-with-brainpower](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2262-solving-questions-with-brainpower) |
 ## Two Pointers
 |  |
 | ------- |
