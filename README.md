@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0169-majority-element) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 | [0768-partition-labels](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0768-partition-labels) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0128-longest-consecutive-sequence) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
