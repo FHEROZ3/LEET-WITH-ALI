@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2551-apply-operations-to-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2690-house-robber-iv) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0169-majority-element) |
+| [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -280,4 +283,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2050-count-good-numbers) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
