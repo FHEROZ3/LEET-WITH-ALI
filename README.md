@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0485-max-consecutive-ones) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0368-largest-divisible-subset) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2050-count-good-numbers) |
