@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0038-count-and-say) |
 | [0768-partition-labels](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0053-maximum-subarray) |
 | [0368-largest-divisible-subset](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0868-push-dominoes) |
 | [1170-shortest-common-supersequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1170-shortest-common-supersequence) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2262-solving-questions-with-brainpower) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2551-apply-operations-to-an-array) |
