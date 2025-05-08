@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0075-sort-colors) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0368-largest-divisible-subset) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0073-set-matrix-zeroes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2588-maximum-number-of-points-from-grid-queries) |
