@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0128-longest-consecutive-sequence) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0073-set-matrix-zeroes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2588-maximum-number-of-points-from-grid-queries) |
