@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0368-largest-divisible-subset) |
+| [0594-longest-harmonious-subsequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0594-longest-harmonious-subsequence) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0229-majority-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2140-longest-subsequence-repeated-k-times) |
