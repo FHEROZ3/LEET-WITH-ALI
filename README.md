@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0594-longest-harmonious-subsequence) |
 | [0945-snakes-and-ladders](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0945-snakes-and-ladders) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
+| [0493-reverse-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0493-reverse-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
 ## Queue
 |  |
@@ -546,18 +549,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2280-count-good-triplets-in-an-array) |
 ## Monotonic Queue
 |  |
