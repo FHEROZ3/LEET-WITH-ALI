@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2478-longest-nice-subarray) |
