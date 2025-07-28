@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
