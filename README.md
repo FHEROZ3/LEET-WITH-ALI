@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0907-koko-eating-bananas) |
 | [0945-snakes-and-ladders](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
