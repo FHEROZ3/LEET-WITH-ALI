@@ -22,7 +22,6 @@ public:
      }
 
     int smallestDivisor(vector<int>& nums, int threshold) {
-        sort(nums.begin(),nums.end());
         int l =1,h = maxi(nums);
         while(l<=h)
         {
