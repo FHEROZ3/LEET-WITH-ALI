@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0907-koko-eating-bananas) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1170-shortest-common-supersequence](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1170-shortest-common-supersequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0268-missing-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/FHEROZ3/LEET-WITH-ALI/tree/master/2308-divide-array-into-equal-pairs) |
